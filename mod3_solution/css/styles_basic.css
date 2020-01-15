@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #12343b;
+    background-color: ##12343b;
 }
 
 
@@ -49,7 +49,6 @@ body {
 }
 
 #nav-list a {
-    /*text-align: center;*/
     font-weight: bolder;
     color: #282828;
     font-size: 1.2em;
@@ -72,12 +71,12 @@ body {
 
 #main-content {
     width: 92%;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 #main-content h2 {
     color: #000000;
-    font-size: 2.4em;
+    font-size: 2.9em;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 50px;
@@ -89,13 +88,10 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
-    width: 100%;
-    padding: 20px;
+#main-section {
     background-color: #c2dde6;
-    margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 50px #18580b;
+    padding: 30px;
 }
-
 
 /** END HOME PAGE **/
